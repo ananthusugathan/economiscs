@@ -1,2 +1,1 @@
-# economiscs
-Economics_ENAC
+# Fundamental_Economics_project
